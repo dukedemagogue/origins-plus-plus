@@ -4,7 +4,7 @@
 		"type":"origins:modify_damage_dealt",
 		"modifier":{
 			"operation":"multiply_total",
-			"value":0.33
+			"value":0.50
 		},
 		"damage_condition":{
 			"type":"origins:projectile",
@@ -15,7 +15,7 @@
 		"type":"origins:action_on_hit",
 		"bientity_action":{
 			"type":"origins:add_velocity",
-			"z":0.33
+			"z":0.50
 		}
 	}
 }

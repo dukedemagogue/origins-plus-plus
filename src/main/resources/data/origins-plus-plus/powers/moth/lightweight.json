@@ -2,7 +2,7 @@
 	"type":"origins:attribute",
 	"modifier":{
 		"attribute":"minecraft:generic.max_health",
-		"value":-2,
+		"value":-12,
 		"operation":"addition"
 	}
 }

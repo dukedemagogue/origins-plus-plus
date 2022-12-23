@@ -7,7 +7,7 @@
 		"max_stacks":10,
 		"duration_per_stack":5,
 		"effect":{
-			"effect":"minecraft:luck",
+			"effect":"minecraft:regeneration",
 			"show_particles":false,
 			"show_icon":false
 		},

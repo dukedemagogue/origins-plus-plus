@@ -11,7 +11,7 @@
 		"damage_condition":{
 			"type":"origins:fire"
 		},
-		"cooldown":300
+		"cooldown":100
 	},
 	"remove":{
 		"type":"origins:action_on_item_use",
@@ -23,7 +23,7 @@
 		"item_condition":{
 			"type":"origins:ingredient",
 			"ingredient":{
-				"item":"minecraft:honey_bottle"
+				"item":"minecraft:water_bottle"
 			}
 		}
 	}

@@ -1,19 +1,22 @@
 {
 	"powers": [
-		"origins-plus-plus:moth/climbing",
 		"origins-plus-plus:moth/compound_vision",
 		"origins-plus-plus:moth/easy_evasion",
 		"origins-plus-plus:moth/expulsion",
 		"origins-plus-plus:moth/flammable_body",
+		"origins-plus-plus:moth/hide_diet",		
 		"origins-plus-plus:moth/jackolantern_affinity",
 		"origins-plus-plus:moth/lantern_affinity",
+		"origins-plus-plus:moth/leather_diet",
 		"origins-plus-plus:moth/light_affinity",
 		"origins-plus-plus:moth/lightweight",
+		"origins-plus-plus:moth/no_food",
 		"origins-plus-plus:moth/overwhelming_light",
 		"origins-plus-plus:moth/sea_lantern_affinity",
 		"origins-plus-plus:moth/short",
 		"origins-plus-plus:moth/soul_lantern_affinity",
 		"origins-plus-plus:moth/soul_torch_affinity",
+		"origins-plus-plus:moth/weight",
 		"origins-plus-plus:moth/wings"
 	],
 	"icon": "minecraft:lantern",

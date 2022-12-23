@@ -9,7 +9,7 @@
 			},
 			{
 				"type":"origins:execute_command",
-				"command":"scale set pehkui:width 0.5"
+				"command":"scale set pehkui:width 1"
 			}
 		]
 	},
@@ -22,7 +22,7 @@
 			},
 			{
 				"type":"origins:execute_command",
-				"command":"scale set pehkui:width 0.5"
+				"command":"scale set pehkui:width 1"
 			}
 		]
 	},

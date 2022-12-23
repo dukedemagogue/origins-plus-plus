@@ -1,8 +1,0 @@
-{
-	"type":"origins:inventory",
-	"drop_on_death":false,
-	"drop_on_death_filter":{
-		"type":"origins:food",
-		"inverted":true
-	}
-}

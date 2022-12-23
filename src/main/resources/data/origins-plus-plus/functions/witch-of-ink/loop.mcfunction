@@ -1,1 +1,0 @@
-team join lwi_Witch @e[type=witch,team=!lwi_Witch]

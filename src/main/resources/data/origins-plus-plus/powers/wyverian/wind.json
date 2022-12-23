@@ -6,6 +6,6 @@
 		"bar_index":4
 	},
 	"sound":"minecraft:entity.ender_dragon.flap",
-	"speed":2,
+	"speed":1,
 	"key":"key.origins.primary_active"
 }

@@ -3,21 +3,6 @@
 	"min_stacks":0,
 	"max_stacks":2,
 	"duration_per_stack":20,
-	"effects":[
-		{
-			"effect":"minecraft:slowness",
-			"duration":100,
-			"amplifier":1,
-			"show_particles":false,
-			"show_icon":false
-		},
-		{
-			"effect":"minecraft:weakness",
-			"duration":100,
-			"show_particles":false,
-			"show_icon":false
-		}
-	],
 	"condition":{
 		"type":"origins:and",
 		"conditions":[

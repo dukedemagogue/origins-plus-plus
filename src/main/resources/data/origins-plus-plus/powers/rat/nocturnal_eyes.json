@@ -5,7 +5,7 @@
 	"duration_per_stack":20,
 	"effects":[
 		{
-			"effect":"minecraft:blindness",
+			"effect":"minecraft:darkness",
 			"show_particles":false,
 			"show_icon":false
 		}

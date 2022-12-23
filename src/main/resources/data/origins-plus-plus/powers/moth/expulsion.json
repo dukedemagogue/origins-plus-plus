@@ -20,13 +20,13 @@
 			},
 			{
 				"type":"origins:add_velocity",
-				"z":2,
+				"z":0.5,
 				"space":"local"
 			}
 		]
 	},
 	"key":"key.origins.primary_active",
-	"cooldown":100,
+	"cooldown":300,
 	"hud_render":{
 		"should_render":true,
 		"bar_index":2
